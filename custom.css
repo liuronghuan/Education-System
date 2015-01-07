@@ -1,0 +1,95 @@
+.right{
+    float:right;
+}
+.left{
+    float:left;
+}
+.clear{
+    clear:both;
+}
+.meiju{
+    line-height:34px;
+}
+.jiange{
+    height: 16px;
+}
+.blue{
+    color:#04bbf5;
+    margin:0 6px 0 2px;
+}
+.righter{
+    margin-right: 4px;
+}
+.goujia_bt{
+    background:#f3f3f4;
+    border-left: 1px solid #e7eaec;
+}
+.goujia_bt table{
+    background:#fff
+}
+ul.goujia_manager li,ul.goujia_manager li.active{
+    background:#f3f3f4 !important;
+    margin-bottom: 6px;
+}
+.goujia_nav ul,.goujia_nav ul li,ul.goujia_add,ul.goujia_add li{
+    list-style:none
+}
+.goujia_nav a{
+    color:#999 !important
+}
+.goujia_nav a:hover{
+    color:#5E5E5E !important
+}
+.goujia_nav .nav > li.active {
+    border-left: 2px solid #19aa8d;
+    background: none;
+}
+.goujia_nav .nav li.active li.active {
+    border:none;
+    background: none;
+}
+.jianbt{
+    margin-bottom: 12px;
+}
+.goujia_manager,.goujia_bt{
+    padding:32px 0;
+}
+.mini{
+    width: 120px;
+    padding: 8px 32px !important
+}
+ul.goujia_add li{
+    margin-bottom: 12px;
+}
+.simditor{
+    margin-top: 12px;
+}
+.cursor{
+    cursor:pointer
+}
+.modal-header {
+    background:#00c0ff;
+    color:#fff
+}
+.breadcrumb a{
+    color:#00c0ff !important
+}
+.bt{
+    padding: 12px 0 8px;
+    border-top: 4px solid #d5d5d5;
+}
+.wbg{
+    background:#fff
+}
+thead.bgg > tr > th{
+    color:#fff;
+    background:#b2b2b2
+}
+.btn-blue {
+    background-color: #04bbf5;
+    border-color: #04bbf5;
+    color: #fff;
+}
+.goujia_bt table,.goujia_bt table thead tr th{
+    text-align:center
+}
