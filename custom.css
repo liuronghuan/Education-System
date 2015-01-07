@@ -75,7 +75,7 @@ ul.goujia_add li{
     color:#00c0ff !important
 }
 .bt{
-    padding: 12px 0 8px;
+    padding: 6px 0 2px;
     border-top: 4px solid #d5d5d5;
 }
 .wbg{
@@ -92,4 +92,10 @@ thead.bgg > tr > th{
 }
 .goujia_bt table,.goujia_bt table thead tr th{
     text-align:center
+}
+.pagination{
+    margin: 0;
+}
+.mtop{
+    margin-top: 4px;
 }
